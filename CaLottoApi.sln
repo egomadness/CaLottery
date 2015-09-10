@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LottoTesting", "LottoTesting\LottoTesting.csproj", "{B9C4B30C-D178-494C-878F-4F4F3873A006}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LottoApi", "LottoApi\LottoApi.csproj", "{30483B0E-587A-4CDF-98B1-56299A923B6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LotterRetrieval", "LotterRetrieval\LotterRetrieval.csproj", "{E094D512-1AEB-4523-B767-2FF83BA74CDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9C4B30C-D178-494C-878F-4F4F3873A006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C4B30C-D178-494C-878F-4F4F3873A006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C4B30C-D178-494C-878F-4F4F3873A006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C4B30C-D178-494C-878F-4F4F3873A006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30483B0E-587A-4CDF-98B1-56299A923B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30483B0E-587A-4CDF-98B1-56299A923B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30483B0E-587A-4CDF-98B1-56299A923B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30483B0E-587A-4CDF-98B1-56299A923B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E094D512-1AEB-4523-B767-2FF83BA74CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E094D512-1AEB-4523-B767-2FF83BA74CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E094D512-1AEB-4523-B767-2FF83BA74CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E094D512-1AEB-4523-B767-2FF83BA74CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
